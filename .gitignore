@@ -1,0 +1,12 @@
+# Automation Studio: временные и сгенерированные файлы
+Temp/
+Binaries/
+Diagnosis/
+*.isopen
+*.bak
+*.tmp
+*.orig
+# системные файлы
+.DS_Store
+Thumbs.db
+~$*
